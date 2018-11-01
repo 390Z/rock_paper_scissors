@@ -1,4 +1,4 @@
-#rock_paper_scissors
+# rock_paper_scissors
 
 A simple "rock-paper-scissors" game implementing HTML, CSS and JavaScript.
 
